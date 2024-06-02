@@ -1,0 +1,118 @@
+Date : 2024-05-24 00:57:48
+Directory : a:\Education\DIPLOMA_BAC\Diploma
+Total : 80 files,  3843 codes, 243 comments, 409 blanks, all 4495 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         31 |      2,195 |        125 |        249 |      2,569 |
+| XML      |         43 |        739 |          0 |         43 |        782 |
+| LaTeX    |          2 |        734 |         37 |         73 |        844 |
+| TeX      |          2 |        121 |         81 |         31 |        233 |
+| Markdown |          1 |         31 |          0 |         13 |         44 |
+| JSON     |          1 |         23 |          0 |          0 |         23 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         80 |      3,843 |        243 |        409 |      4,495 |
+| . (Files)                                                          |          4 |        114 |         16 |         18 |        148 |
+| Computing                                                          |          2 |        320 |          5 |         29 |        354 |
+| Input_files                                                        |         42 |        722 |          0 |         42 |        764 |
+| Parsing                                                            |          1 |         78 |          1 |          6 |         85 |
+| Report                                                             |          5 |        886 |        118 |        117 |      1,121 |
+| Segments                                                           |          4 |        290 |         10 |         55 |        355 |
+| Structs                                                            |          2 |         39 |          0 |          9 |         48 |
+| Tests                                                              |         17 |      1,250 |         89 |        113 |      1,452 |
+| dto                                                                |          3 |        144 |          4 |         20 |        168 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                           | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| a:\Education\DIPLOMA_BAC\Diploma\Computing\Matrix.h                | C++      |        162 |          5 |         18 |        185 |
+| a:\Education\DIPLOMA_BAC\Diploma\Computing\ViewFactor.hpp          | C++      |        158 |          0 |         11 |        169 |
+| a:\Education\DIPLOMA_BAC\Diploma\CppProperties.json                | JSON     |         23 |          0 |          0 |         23 |
+| a:\Education\DIPLOMA_BAC\Diploma\Data.h                            | C++      |         20 |          1 |          4 |         25 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test23.svg            | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test24_0.svg          | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test24_1.svg          | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test24_2.svg          | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test24_3.svg          | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test24_4.svg          | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test25_10.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test25_20.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test25_40.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test25_80.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29.svg            | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_100.svg        | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_102400.svg     | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_12800.svg      | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_1600.svg       | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_200.svg        | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_25600.svg      | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_3200.svg       | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_400.svg        | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_51200.svg      | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_6400.svg       | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test29_800.svg        | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test32.svg            | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test33.svg            | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test34.svg            | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test35_10.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test35_20.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test35_40.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test35_80.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test36_10.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test36_20.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test36_40.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test36_80.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test37_10.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test37_20.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test37_40.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test37_80.svg         | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test44_10.svg         | XML      |         19 |          0 |          1 |         20 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test44_20.svg         | XML      |         19 |          0 |          1 |         20 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test44_40.svg         | XML      |         19 |          0 |          1 |         20 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test44_80.svg         | XML      |         19 |          0 |          1 |         20 |
+| a:\Education\DIPLOMA_BAC\Diploma\Input_files\Test5.svg             | XML      |         17 |          0 |          1 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Main.cpp                          | C++      |         54 |         15 |         13 |         82 |
+| a:\Education\DIPLOMA_BAC\Diploma\Parsing\XmlCodeToPropertyTree.hpp | C++      |         78 |          1 |          6 |         85 |
+| a:\Education\DIPLOMA_BAC\Diploma\Report\README.md                  | Markdown |         31 |          0 |         13 |         44 |
+| a:\Education\DIPLOMA_BAC\Diploma\Report\main.tex                   | LaTeX    |        704 |         15 |         61 |        780 |
+| a:\Education\DIPLOMA_BAC\Diploma\Report\spbudiploma.sty            | TeX      |         60 |         40 |         16 |        116 |
+| a:\Education\DIPLOMA_BAC\Diploma\Report\spbudiploma_tempora.sty    | TeX      |         61 |         41 |         15 |        117 |
+| a:\Education\DIPLOMA_BAC\Diploma\Report\titlepage.tex              | LaTeX    |         30 |         22 |         12 |         64 |
+| a:\Education\DIPLOMA_BAC\Diploma\Segments\CompSegment.h            | C++      |         73 |          0 |         13 |         86 |
+| a:\Education\DIPLOMA_BAC\Diploma\Segments\Segment.h                | C++      |         33 |          0 |          9 |         42 |
+| a:\Education\DIPLOMA_BAC\Diploma\Segments\Surface.h                | C++      |         50 |          4 |         12 |         66 |
+| a:\Education\DIPLOMA_BAC\Diploma\Segments\UserSegment.h            | C++      |        134 |          6 |         21 |        161 |
+| a:\Education\DIPLOMA_BAC\Diploma\Structs\Point.h                   | C++      |         23 |          0 |          5 |         28 |
+| a:\Education\DIPLOMA_BAC\Diploma\Structs\Vect.h                    | C++      |         16 |          0 |          4 |         20 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\FileFiller.h                | C++      |         14 |          0 |          4 |         18 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\IncludeTests.h              | C++      |         13 |          0 |          2 |         15 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test23.hpp                  | C++      |         88 |          7 |          7 |        102 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test24.hpp                  | C++      |         89 |          7 |          8 |        104 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test25.hpp                  | C++      |         96 |          8 |          7 |        111 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test29.hpp                  | C++      |         91 |          8 |          7 |        106 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test32.hpp                  | C++      |         67 |          7 |          7 |         81 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test33.hpp                  | C++      |         67 |          7 |          7 |         81 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test34.hpp                  | C++      |         66 |          7 |          7 |         80 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test35.hpp                  | C++      |         98 |          8 |          8 |        114 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test36.hpp                  | C++      |        106 |          8 |          8 |        122 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test37.hpp                  | C++      |         96 |          8 |          8 |        112 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test44.hpp                  | C++      |        103 |          8 |          8 |        119 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Test5.hpp                   | C++      |         88 |          3 |          7 |         98 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\TestExecuter.h              | C++      |         62 |          3 |          9 |         74 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\Tests.h                     | C++      |         13 |          0 |          2 |         15 |
+| a:\Education\DIPLOMA_BAC\Diploma\Tests\UnitTests.hpp               | C++      |         93 |          0 |          7 |        100 |
+| a:\Education\DIPLOMA_BAC\Diploma\dto\LinesToSegments.h             | C++      |         44 |          0 |          5 |         49 |
+| a:\Education\DIPLOMA_BAC\Diploma\dto\Surface.h                     | C++      |         52 |          4 |         12 |         68 |
+| a:\Education\DIPLOMA_BAC\Diploma\dto\SurfaceToLines.h              | C++      |         48 |          0 |          3 |         51 |
+| a:\Education\DIPLOMA_BAC\Diploma\test.svg                          | XML      |         17 |          0 |          1 |         18 |
+| Total                                                              |          |      3,843 |        243 |        409 |      4,495 |
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+

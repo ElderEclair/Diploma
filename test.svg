@@ -1,0 +1,17 @@
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+    <polyline
+       id="alpha"
+       points="10,10 20,10 10,20 20,10 10,10"
+       stroke="black" 
+    />
+    <polyline
+       id="beta"
+       points="50,50 60,50 50,60"
+       stroke="black" 
+    />
+</svg>
